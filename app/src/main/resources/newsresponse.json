@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China reports first COVID deaths in weeks as doubts gather over official count - Reuters",
+      "description": "China reported its first COVID-related deaths in weeks on Monday amid rising doubts over whether the official count was capturing the full toll of a disease that is ripping through cities after the government relaxed strict anti-virus controls.",
+      "url": "https://www.reuters.com/world/china/china-officially-reports-first-covid-deaths-weeks-virus-wave-swells-2022-12-19/",
+      "urlToImage": "https://www.reuters.com/resizer/8RCp3UmoZxtddMXFj_GtMIsnWoA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M7TM4JAXRNKBFD2CHS5LAD3GEQ.jpg",
+      "publishedAt": "2022-12-19T07:18:00Z",
+      "content": "BEIJING, Dec 19 (Reuters) - China reported its first COVID-related deaths in weeks on Monday amid rising doubts over whether the official count was capturing the full toll of a disease that is rippin… [+5008 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Elizabeth Wolfe, Tavleen Tarrant",
+      "title": "5 people killed in a 'horrendous' condo shooting in Canada, police say - CNN",
+      "description": "Five people were killed in a shooting at a condominium in a Toronto suburb Sunday night, police said.",
+      "url": "https://www.cnn.com/2022/12/18/world/condo-shooting-vaughan-canada/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221219000429-02-condo-shooting-vaughan-canada-121822.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-19T07:15:00Z",
+      "content": "Five people were killed in a shooting at a condominium in a Toronto suburb Sunday night, police said.\r\nAt around 7:20 p.m., officers responded to an active shooting call at the building in Vaughan, a… [+1693 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "Laken Litman",
+      "title": "'A scintillating performance': Kylian Mbappé gave his all in World Cup final - FOX Sports",
+      "description": "Kylian Mbappé willed an otherwise drained France side into a game that looked lost for most of regulation, but the team still fell just short of repeating as champions.",
+      "url": "https://www.foxsports.com/stories/soccer/a-scintillating-performance-kylian-mbappe-gave-his-all-in-world-cup-final",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.18.22_Mbappe-Did-all-he-Could-and-it-Wasnt-Enough_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-19T06:27:34Z",
+      "content": "LUSAIL, Qatar Kylian Mbappé sat on the bench legs spread, his navy France jersey pulled up high enough to cover his entire head. Cameras flashed in his face, looking for a tear or two, but this is wh… [+6526 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Thailand warship capsizes leaving 31 sailors missing - BBC",
+      "description": "The navy is searching for survivors after the HTMS Sukhothai, carrying 106 crew, sank in a storm.",
+      "url": "https://www.bbc.com/news/world-asia-64023249",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F66C/production/_128048036_navyship.png",
+      "publishedAt": "2022-12-19T06:26:03Z",
+      "content": "Media caption, Watch: Thailand warship capsizes during storm\r\nThe Thai navy says 31 sailors are missing after a warship carrying over 100 crew capsized and sank during a storm in the Gulf of Thailand… [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst",
+      "title": "Oppenheimer Trailer Gives Us Our Best Look of Christopher Nolan's Atomic Bomb Film - IGN",
+      "description": "Oppenheimer, Christopher Nolan's upcoming epic thriller film about the physicist often credited with being the \"father of the atomic bomb,\" has received its first full trailer.",
+      "url": "https://www.ign.com/articles/oppenheimer-trailer-gives-us-our-best-look-of-christopher-nolans-atomic-bomb-film",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/12/19/op-1671429105678.png?width=1280",
+      "publishedAt": "2022-12-19T05:59:43Z",
+      "content": "Oppenheimer, Christopher Nolan's upcoming epic thriller film about the physicist often credited with being the \"father of the atomic bomb,\" has received its first full trailer.\r\nOppenheimer stars Cil… [+1744 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "https://www.theguardian.com/profile/samantha-lock",
+      "title": "Russia-Ukraine war live news: drone strike on Kyiv; UK to announce new artillery package - The Guardian",
+      "description": "Nine Iranian-made drones shot down in capital, say officials; Rishi Sunak to unveil £250m in military support during leaders’ meeting in Latvia",
+      "url": "https://www.theguardian.com/world/live/2022/dec/19/russia-ukraine-war-live-news-drone-strike-on-kyiv-uk-to-announce-new-artillery-package",
+      "urlToImage": "https://i.guim.co.uk/img/media/2e4b6f164e0ad65705b84c64e1247dad51ddbc19/0_0_4300_2580/master/4300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f4f9564aca63c388f4a58551e4bab341",
+      "publishedAt": "2022-12-19T05:30:00Z",
+      "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nUkraines air force says it shot down 30 out of 35 Russian-launched Shahed drones overnight.\r\nThe Iranian-made Shahed-136/131 kamikaz… [+13407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "January 6 committee expected to recommend DOJ pursue criminal charges against Trump - KENS 5: Your San Antonio News Source",
+      "description": "Monday will likely be the last public meeting of the House committee investigating the attack on the Capitol.",
+      "url": "https://www.youtube.com/watch?v=F6OEEd7hCHI",
+      "urlToImage": "https://i.ytimg.com/vi/F6OEEd7hCHI/hqdefault.jpg",
+      "publishedAt": "2022-12-19T05:17:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "New York Giants vs. Washington Commanders | 2022 Week 15 Game Highlights - NFL",
+      "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+      "url": "https://www.youtube.com/watch?v=aYQtFvrZJRY",
+      "urlToImage": "https://i.ytimg.com/vi/aYQtFvrZJRY/maxresdefault.jpg",
+      "publishedAt": "2022-12-19T04:40:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Gina Martinez",
+      "title": "36 injured, 11 seriously, after Hawaiian Airlines flight experiences \"severe turbulence,\" officials say - CBS News",
+      "description": "A total of 20 people aboard Hawaiian Airlines Flight 35 were taken to two local hospitals, Honolulu Emergency Medical Services confirmed",
+      "url": "https://www.cbsnews.com/news/hawaiian-airlines-turbulence-injuries/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/12/19/5cf01e7e-a2a4-4edb-94eb-a0ce3b251975/thumbnail/1200x630/22555c723558cc16b62c1f658687518b/gettyimages-1306376494.jpg",
+      "publishedAt": "2022-12-19T04:20:00Z",
+      "content": "A flight from Phoenix to Honolulu left 36 people hurt, with 11 sustaining serious injuries, after the plane experienced \"severe turbulence,\" officials said Sunday.\r\nA total of 20 people aboard Hawaii… [+1690 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Ex-Patriots quarterback calls team 'one of the dumbest' he's ever seen after disastrous loss to Raiders - Fox News",
+      "description": "Former New England Patriots quarterback Scott Zolak was on the call for the team's costly flub on Sunday and appeared to speak for all Pats fans while he summed up the game.",
+      "url": "https://www.foxnews.com/sports/ex-patriots-quarterback-calls-team-one-dumbest-hes-ever-seen-disastrous-loss-raiders",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Chandler-Jones2.jpg",
+      "publishedAt": "2022-12-19T03:50:21Z",
+      "content": "New England Patriots radio announcers were in disbelief as to what transpired in the final seconds of the teams last-second loss to the Las Vegas Raiders on Sunday night.\r\nBob Socci was doing the pla… [+2452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Brayden Lindrea",
+      "title": "US Senate banking chair floats possibility of banning crypto - Cointelegraph",
+      "description": "United States Banking Committee chair Sherrod Brown is using the collapse of FTX to push for a strict regulatory regime and a possible ban on cryptocurrencies. He believes digital assets are “dangerous” and a “threat to national security.”",
+      "url": "https://cointelegraph.com/news/us-senate-banking-chair-floats-possibility-of-banning-crypto",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/9c8b4142-c46a-4172-bd7c-42df722f7534.jpg",
+      "publishedAt": "2022-12-19T02:53:57Z",
+      "content": "United States Banking Committee chairman Sherrod Brown has suggested that the Securities Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC) should perhaps consider a ban on… [+2965 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "David Goldman",
+      "title": "Elon Musk says he will step down as Twitter CEO if voted out by a poll he tweeted - CNN",
+      "description": "Twitter's mercurial new boss may be out the door after less than two months on the job, if results of a Twitter poll go against him.",
+      "url": "https://www.cnn.com/2022/12/18/tech/elon-musk-twitter-ceo-poll/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221218204017-elon-musk-file-121822.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-19T02:40:00Z",
+      "content": "Twitters mercurial new boss may be out the door after less than two months on the job, if results of a Twitter poll go against him.\r\nElon Musk tweeted a poll Sunday evening asking people to vote on w… [+2419 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Oscar Holland, CNN",
+      "title": "'How to make applesauce': A photograph that made time stand still - CNN",
+      "description": "Harold Edgerton's image of a bullet passing through an apple was not only a work of art but a feat of electrical engineering that changed photography forever.",
+      "url": "https://www.cnn.com/style/article/harold-edgerton-bullet-apple-snap/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220727122753-harold-edgerton-snap-super-tease.jpg",
+      "publishedAt": "2022-12-19T01:03:59Z",
+      "content": "artsPublished 19th December 2022\r\nIn Snap, we look at the power of a single photograph, chronicling stories about how both modern and historical images have been made.\r\nExploding with energy but perf… [+4471 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": "Ashley Joy Parker",
+      "title": "Alex Rodriguez Makes Romance With Jac Cordeiro Instagram Official - E! NEWS",
+      "description": "Marking his first public relationship since his split from Jennifer Lopez in 2021, Alex Rodriguez shared a photo of his new girlfriend Jac Cordeiro on Instagram.",
+      "url": "https://www.eonline.com/news/1358740/alex-rodriguez-makes-romance-with-jac-cordeiro-instagram-official",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20221118/rs_1200x1200-221218160334-Alex-Rodriguez--1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2022-12-19T00:59:00Z",
+      "content": "\"Anything that doesn't serve me is clearing out of my life,\" he shared on Instagram Stories that May. \"New energy is emerging. New levels are unlocking for me mentally, physically, and spiritually. I… [+849 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Giovanna Dell'orto, Morgan Lee",
+      "title": "US border cities strained ahead of expected migrant surge - The Associated Press - en Español",
+      "description": "EL PASO, Texas (AP) — Along the U.S. southern border, two cities — El Paso, Texas, and Ciudad Juarez in Mexico — prepared Sunday for a surge of as many as 5,000 new migrants a day as pandemic-era immigration restrictions expire this week, setting in motion pl…",
+      "url": "https://apnews.com/article/texas-pandemics-public-health-el-paso-150179513b09e15b79f15f34eea24f50",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ff2b43888b074bebbe2f6484095ab38b/3000.webp",
+      "publishedAt": "2022-12-19T00:09:54Z",
+      "content": "EL PASO, Texas (AP) Along the U.S. southern border, two cities El Paso, Texas, and Ciudad Juarez in Mexico prepared Sunday for a surge of as many as 5,000 new migrants a day as pandemic-era immigrati… [+7353 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Belarus leader says situation ‘escalating’ ahead of rare Putin visit - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L2ludGVybmF0aW9uYWwvMzc4MDAyNC1iZWxhcnVzLWxlYWRlci1zYXlzLXNpdHVhdGlvbi1lc2NhbGF0aW5nLWFoZWFkLW9mLXJhcmUtcHV0aW4tdmlzaXQv0gF4aHR0cHM6Ly90aGVoaWxsLmNvbS9wb2xpY3kvaW50ZXJuYXRpb25hbC8zNzgwMDI0LWJlbGFydXMtbGVhZGVyLXNheXMtc2l0dWF0aW9uLWVzY2FsYXRpbmctYWhlYWQtb2YtcmFyZS1wdXRpbi12aXNpdC9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-12-19T00:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "A blast of frigid Arctic air will arrive in New Orleans before Christmas - WWLTV",
+      "description": "Meteorologist Alexandra Cranford says an Arctic blast is in the New Orleans Weather forecast at 5:30 p.m. Sunday, December 18, 2022.This week starts cold and...",
+      "url": "https://www.youtube.com/watch?v=Ktwv37_vhMI",
+      "urlToImage": "https://i.ytimg.com/vi/Ktwv37_vhMI/maxresdefault.jpg",
+      "publishedAt": "2022-12-18T23:56:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "Sandra Erwin",
+      "title": "L3Harris to acquire Aerojet Rocketdyne for $4.7 billion - SpaceNews",
+      "description": "L3Harris Technologies on Dec. 18 announced an agreement to acquire Aerojet Rocketdyne for $4.7 billion.",
+      "url": "https://spacenews.com/l3harris-to-acquire-aerojet-rocketdyne-for-4-7-billion/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2015/11/RS-25-engines-factory.jpg",
+      "publishedAt": "2022-12-18T23:03:23Z",
+      "content": "The deal comes exactly two years after Lockheed Martin sought to buy Aerojet in a $4.4 billion bid\r\nWASHINGTON L3Harris Technologies on Dec. 18 announced an agreement to acquire Aerojet Rocketdyne fo… [+4132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Sean Keane",
+      "title": "'Avatar: The Way of Water': Is There a Post-Credits Scene? - CNET",
+      "description": "Will sitting through the credits offer a hint about the third movie in James Cameron's epic sci-fi series?",
+      "url": "https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-is-there-a-post-credits-scene/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/8d8c4655331f348dc6583069c3d0cbf78d349d99/hub/2022/12/15/a270c3b5-819f-443c-a399-d2b2c0b67047/2040a-0180-v0492-1100-alteredv2-8192x4320-068a4ee.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-12-18T23:00:03Z",
+      "content": "The long-awaited Avatar: The Way of Water landed in theaters Friday, giving us a fresh visual treat from legendary director James Cameron. The sequel continues the epic tale started by the 2009 origi… [+957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tariq Malik",
+      "title": "Watch Rocket Lab attempt its 1st US launch with an Electron booster today - Space.com",
+      "description": "Liftoff of the Rocket Lab Electron is scheduled for 6 p.m. EST (2300 GMT), but it could fly anytime between then and 8 p.m. EST (0100 GMT).",
+      "url": "https://www.space.com/rocket-lab-1st-us-electron-launch-livestream",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eRT98ikRSLLLcRhSyJwFR4-1200-80.jpg",
+      "publishedAt": "2022-12-18T22:59:31Z",
+      "content": "Update for 7:58 pm ET: Rocket Lab has called off tonight's Electron launch attempt from NASA's Wallops Flight Facility in Virginia due to high upper-level winds. The next launch attempt will be on Mo… [+5786 chars]"
+    }
+  ]
+}
